@@ -1,26 +1,30 @@
-﻿I recently spent an entire afternoon watching YouTube reels of Bruce Lee performing martial arts. All of those videos seemed to follow the same style, showing vintage-styled footage of him performing some sort of insane physical feat, with a voiceover saying something vaguely spiritual and interesting, such as “be like water, my friend.”
+﻿I recently spent an entire afternoon watching YouTube reels that show Bruce Lee performing martial arts. All of those videos seemed to follow the same format, showing vintage-styled footage of him with a voiceover saying something spiritual, such as “be like water.”
 
 Only once the time had fully passed, and I'd watched what felt like endless short videos, did I realize they were all (or at least the majority of them) completely AI-generated.
 
 When I asked Google Gemini about this, it gave me the typical “You’re not crazy” response, assuring me that it was becoming a pretty common tactic on YouTube these days to create such videos and waste the time of otherwise totally-employed and useful people like me, for views and dollars.
 
-But a simple question kept looping in my brain. Why Bruce Lee?
+But a simple question kept looping in my brain. 
 
-–
+Why Bruce Lee?
 
 AI can generate anything, but whoever created those videos deliberately chose Bruce Lee as the subject. And it worked! There was definitely something in it that resonated with me on a base level, even though I had never really seen a Bruce Lee movie before writing this article.
 
-But one has to wonder, how did the whole “Bruce Lee as warrior-monk” image/meme originate, and how much of it was true? Who was Bruce Lee (the actual man), and who was the meme? And why does the idea of him still exist in the cultural zeitgeist today, and why does it still land so hard?
+But one has to wonder, how did the whole “Bruce Lee as warrior-monk” image/meme originate, and how much of it was true? 
+
+Who was Bruce Lee (the actual man), and who was the meme? And why does the idea of him still exist in the cultural zeitgeist today, and why does it still land so hard?
 
 So I started researching and figuring this out for myself, and I did not expect the rabbit hole to be this deep.
 
 Bruce Lee does not qualify as a philosopher in the academic sense
 
-From a strictly academic perspective, Bruce Lee has not made any meaningful contributions to philosophy. While you can easily find numerous citations of the work of contemporary thinkers like Thomas Nagel in academia, Lee never wrote an academic paper and was never recognized there beyond being a subject or reference. 
+From a strictly academic perspective, Bruce Lee has not made any meaningful contributions to philosophy. While you can easily find numerous citations of the work of contemporary thinkers like Thomas Nagel, Lee never wrote an academic paper and was never recognized in that field beyond serving as a subject or reference. 
 
-Bruce Lee attended the University of Washington, and it is often cited that he “studied philosophy” there. However, what is often not cited is that he was a drama major and that he just took a few philosophy classes. 
+While this sounds like one of his movie plots, according to the biography “The Bruce Lee Story,” he was sent to live with his sister in San Fransico because he beat up the kid of a feared triad family in a rooftop fight, and his family was scared for him. He would then move to Seattle, work as a live-in waiter, and later start teaching martial arts on the side while completing high school. 
 
-To pay for his college, he worked as a waiter and taught martial arts to students on the side. Eventually, he would drop out to pursue a career in acting and filmmaking. 
+Bruce Lee attended the University of Washington, and it is often cited that he “studied philosophy” there. However, what is often not cited is that he was a drama major and took only a few philosophy classes. [1] 
+
+Eventually, he would drop out of college to pursue a career in acting and filmmaking. 
 
 Given this background, it is fair not to consider him as a philosopher in the technical sense of the world. However, it would be pretty boring if only academics could have and discuss thoughts about life. But in many cases, it is better to see such things as art that makes you think rather than actual philosophy in the strict sense of the word.
 
@@ -30,40 +34,40 @@ A simple but all-encompassing definition of art (to me) is something that can be
 
 Additionally, art usually involves some method and practice. For example, a filmmaker needs to understand cinematography, scriptwriting, and editing, while a painter needs to learn about colors, composition, the actual painting process, and so on.
 
-So I believe yes, it is true that almost anything can be art. For example, see the Fountain. But I also believe that philosophy cannot be about just anything.
+So I believe yes, it is true that almost anything can be art. For example, see the Fountain. But I also believe that philosophy cannot be about just anything. [2]
 
-To me, the objective of philosophy is usually not to evoke emotions or feelings (though it can). Every serious idea should stand the scrutiny and be capable of being logically wrestled with, if not fully resolved. 
+To me, the objective of philosophy is usually not to evoke emotions or feelings (though it can). Every serious idea should stand the scrutiny and be capable of being logically wrestled with, if not fully resolved. One might consider this a purely “Western” point of view, but even Eastern philosophical concepts follow logic, even if they take a different approach from simply writing papers. 
 
-One might consider this a purely “Western” point of view, but even Eastern philosophical concepts follow logic, even if they take a different approach from simply writing papers. 
+There is a difference between actual Daoist teachings and bumper stickers, even though they might look the same on the surface. 
 
-There is a difference between actual Daoist teachings and bumper stickers, even though they might look the same on the surface. Similarly, just because Bruce Lee fits the aesthetics of a warrior-monk philosopher (largely made up by vested corporate interests), we must judge the validity of him being that based on the ideas, not the man. 
+Yes, Bruce Lee fits the aesthetics of a warrior-monk philosopher (largely made up by vested corporate interests), but that doesn’t mean we must judge the validity of him being that based on the ideas, not the man.
 
 Jeet Kune Do, or the way of the intercepting fist 
 
 Of course, Bruce Lee had developed his own proprietary fighting system. 
 
-Instead of following the rigid technical standards most martial arts demanded, he developed a style based purely on pragmatism. 
+Instead of following the rigid technical standards most martial arts demanded, he developed a style based purely on pragmatism.
 
 The famous “be like water” quote is a direct reference to this system. His point, within this particular context, was to be extremely flexible and not get lost within the mythology and aesthetics of the practice. Take what is useful and disregard what is not.
 
 The style would eventually be known as Jeet Kune Do or “the way of the intercepting fist.” Other maxims include a focus on balance and using motion effectively, and things like striking the enemy while the enemy is striking you (emphasis on the intercepting part). However, the important thing is that Bruce Lee never claimed this was a specific style.
 
 “I have not invented a "new style," composite, modified or otherwise that is set within 
-distinct form as apart from "this" method or "that" method.” - Bruce Lee 
+distinct form as apart from "this" method or "that" method.” - Bruce Lee [3]
 
-In fact, what Bruce Lee was teaching through his technique was to stop focusing on dogma and to avoid being tied to a single way of fighting. Instead, the student should seek to learn as many techniques as possible, develop their own style of the system, and avoid falling victim to ideology. 
+What Bruce Lee was teaching through his technique was to stop focusing on dogma and to avoid being tied to a single way of fighting. Instead, the student should seek to learn as many techniques as possible, develop their own style of the system, and avoid falling victim to ideology. 
 
-All of this is really great in the context of martial arts and was truly a revolution in that domain. Later in life, Bruce Lee would come to regard this method as a philosophy of life as well, but unfortunately, he did not live long enough to fulfill that objective.
+All of this is really great in the context of martial arts and was truly a revolution in that domain. Later in life, Bruce Lee would come to regard this method as a philosophy of life as well, in some aspects, but unfortunately, he did not live long enough to fulfill that objective.
 
 The book “The Tao of Jeet Kune Do” was published in 1975 after his death. Bruce Lee did not write that book. The bulk of the content was found in notes he scribbled while recovering from a back injury that left him unable to practice. Almost all of it was scribbled in a single session. Other source material includes notes he kept on his fighting style.
 
 He did want to write a book, but not one on philosophy or life in general. He wanted to write a specific book on martial arts and his approach to the art.
 
-"If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you." - Bruce Lee
+"If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you." - Bruce Lee [4]
 
 Ultimately, the book, as it ended up, was published posthumously after being edited by several editors granted access and permission by his widow. It is one of the most cited books when we talk about his philosophy today. However, it can be disingenuous to claim that Bruce Lee fully authored the book and intended it to be released in that manner. Yes, they were his notes, but viewed and presented through others' lenses.
 
-I feel fairly certain that the whole thing was a marketing gimmick, which elevated his passing interest in philosophy to something mysterious, as if he had actual answers to all questions about life when he just had very interesting answers to the questions about fighting and filmmaking. Yes, you can take his quotes and apply it to another domain and claim it fits, but that does not mean that’s what he was actually saying. It is highly sick to do this, but it would only get sicker.
+I feel fairly certain that the whole thing was a marketing gimmick, which elevated his passing interest in philosophy to something mysterious, as if he had actual answers to all questions about life when he just had very interesting answers to the questions about fighting and filmmaking. Yes, you can take his quotes and apply them to another domain and claim it fits, but that does not mean that’s what he was actually saying. It is highly sick to do this, but it would only get sicker.
 
 What happened after his death is more proof that the whole idea of Bruce Lee as it exists today is completely alienated from the actual man who passed away too soon in an unexpected, tragic turn of events.
 
@@ -87,13 +91,13 @@ The plot centers on three clones of Bruce Lee who fight various villains through
 
 In a way, that mimics what actually happened in real life as well. It seemed to have started with a certain innocence. Initially, the movies were about Bruce Lee's life in general, and it was natural for another actor to play him. But over time, this would devolve into absurdity as producers tested what they could get away with. 
 
-Producers would also take quite a lot of liberties in framing the plot of the movies that would focus on his life, often changing details and trying to project an image on him often scrubbing parts of his life from his time in the US.
+Producers would also take considerable liberties in framing the plots of movies about his life, often changing details and trying to project an image of him, sometimes scrubbing parts of his life from his time in the US.
 
-One of the first movies in the genre was Super Dragon: The Bruce Lee Story, which starred an actor and martial artist called Bruce Li (this was not his real name but rather a stage name used on the posters for international markets quite intentionally).
+One of the first movies in the genre was Super Dragon: The Bruce Lee Story (1974), which starred an actor and martial artist called Bruce Li (this was not his real name but rather a stage name used on the posters for international markets quite intentionally). [5]
 
 Born as Ho Chung-tao, Bruce Li would go on to have a decent career playing Bruce Lee in several movies. 
 
-He was chosen because not only did he look like Bruce Lee, but he also moved and did martial arts like him. Bruce Li was a massive fan of Bruce Lee and had essentially studied him; it is also fairly evident from his quotes that he never had the dry, greed-driven cynicism of the producers and always maintained that he could never be Bruce but only act like Bruce.
+He was chosen because not only did he look like Bruce Lee, but he also moved and did martial arts like him on screen. Bruce Li was a massive fan of Bruce Lee and had essentially studied him; it is also fairly evident from his quotes that he never shared the producers' dry, greed-driven cynicism and always maintained that he could never be Bruce, only act like Bruce.
 
 And he was not alone. 
 
@@ -103,15 +107,13 @@ A recent documentary called Enter the Clones of Bruce Lee (2023) covers the topi
 
 Over time, producers would attempt to squeeze every bit of Lee they could manage, leading to weird titles like the 1975 movie Bruce Lee Against Superman or a subgenre of movies where they would acknowledge that Bruce Lee died, but he returns from the dead to complete some mission and is played by one of the clones. 
 
-So in theory, it was not really Bruce Lee, but it was also exactly Bruce Lee.
-
 These movies were often marketed internationally in a way that implied they were the real Bruce Lee. They would rely on tricks like using old footage of Bruce Lee for parts of the film, or maybe just featuring him in one shot, with the rest of the movie showing one of the clones acting like him. 
 
 Some would put him on the poster front and center, but only add a few seconds of actual Bruce Lee footage in a movie that doesn’t really have anything to do with him or his character.
 
-Some would go so far as to use footage from Lee’s funeral and build the plot around it, such as Game of Death (1978). 
+Some would go so far as to use footage from Lee’s funeral to build the plot around it, as in Game of Death (1978). 
 
-To the untrained eye (which is almost everyone when it comes to esoteric martial arts), there is very little difference between Bruce Lee and the clones on film. And the clones were themselves mostly formally trained in martial arts so they could perform well on film.
+To the untrained eye (which is almost everyone when it comes to esoteric martial arts), there is very little difference between Bruce Lee and the clones on film. And the clones were themselves mostly formally trained in martial arts, so they could perform well on film.
 
 At this point, it might be fair to ask. What the heck? Why were they milking it this hard? 
 
@@ -125,9 +127,9 @@ His first appearance before an international audience was in the television seri
 
 Bruce Lee fully dedicated himself to the role, took acting classes, and worked on how his presence would look on camera. 
 
-Instead of using guns or the typical boxing-style brawls common on TV at the time, he would use actual martial arts on screen, based on the techniques he was developing (which would later become Jeet Kune Do). There is a story that, initially, his movements were so fast that 24-frame-per-second cameras couldn't keep up, so he had to slow them down.
+Instead of using guns or the typical boxing-style brawls common on TV at the time, he would use actual martial arts on screen, based on the techniques he was developing (which would later become Jeet Kune Do). There is a story that, initially, his movements were so fast that 24-frame-per-second cameras couldn't keep up, so he had to slow them down. [6]
 
-He would also influence the story and the character himself, elevating the role from a sidekick to essentially the star of the show. When the show was set to collaborate with The Batman TV series at the time, Kato was supposed to lose to Robin, but he completely refused the idea and forced the story to be changed.
+He would also influence the story and the character himself, elevating the role from a sidekick to essentially the star of the show. When the show was set to collaborate with The Batman TV series at the time, Kato was supposed to lose to Robin, but he completely refused the idea and forced the story to be changed. [7]
 
 Despite his undeniable charisma and scene-stealing abilities on television, Hollywood remained deeply prejudiced and hesitant to cast him as a leading protagonist at that time. Frustrated by the lack of meaningful roles and after famously being passed over for the lead in the TV series Kung Fu, Lee returned to Hong Kong in 1971. 
 
@@ -144,9 +146,9 @@ Warner Bros. approached Lee and Golden Harvest to produce Enter the Dragon (1973
 
 Released just one month after his tragic passing, Enter the Dragon became a colossal global blockbuster. It not only ignited the massive "Kung Fu Craze" that swept through the United States in the 1970s, but it also firmly cemented Bruce Lee as a permanent, mythical fixture in global pop culture.
 
-In May 1973, just months before his death, three imported Hong Kong martial arts films simultaneously held the top three spots at the US box office. 
+In May 1973, just months before his death, three imported Hong Kong martial arts films simultaneously held the top three spots at the US box office. [7]
 
-Enter the Dragon, a film produced on a meager $850,000 budget that would go on to gross an estimated $400 million worldwide across multiple releases, making it one of the most profitable movies in history. 
+Enter the Dragon, a film produced on a meager $850,000 budget that would go on to gross an estimated $400 million worldwide across multiple releases, making it one of the most profitable movies in history. [8]
 
 Lee had single-handedly built a bridge between Eastern action and Western audiences, sparking a ravenous global demand for his specific brand of lightning-fast choreography and anti-establishment swagger. When he died right at the apex of this gold rush, he left behind an insatiable worldwide audience and a massive financial vacuum.
 
@@ -154,45 +156,49 @@ So, the decision to “clone” him was not just about homage or respect but rat
 
 Cloning Bruce Lee in the Age of AI
 
-Coming back to the AI-generated YouTube reels of Bruce Lee with all this context, it kind of makes sense. What the creators of those reels are doing is basically what the movie industry had already done for a long time. 
+Coming back to the AI-generated YouTube reels of Bruce Lee with all this context, it kind of makes sense now why they chose him. What the creators of those reels are doing is basically what the movie industry had already done for a long time. 
 
-Let’s examine the initial question: why did the AI creators choose Bruce Lee as the subject? 
+Bruce Lee’s image has been cloned so many times throughout history that it has become bigger and, to a certain degree, detached from the man himself. The AI could get a few details wrong, but it doesn’t matter since there are so many actual filmed variations of his image that most people cannot tell the legit Lee from imitations anyway. As long as the AI captures the idea of Bruce Lee and produces a somewhat respectable artifact based on it, it is inseparable in form from what the studios were doing back in the 70s.
 
-Bruce Lee’s image has been cloned so many times throughout history that it has become bigger than the man himself. The AI could get a few details wrong, but it doesn’t matter since there are so many actual filmed variations of his image that most people cannot tell the legit Lee from imitations anyway. 
+Also, the voiceovers are easy to generate since most Bruce Lee movies were dubbed, and his real voice had a very noticeable quality to it, and when mixed with the typical sound quality of that era, it becomes very easy for AI to imitate.
 
-The voiceovers are also easy to generate since most Bruce Lee movies were dubbed, and his real voice had a very noticeable quality to it, and when mixed with the typical sound quality of that era, it becomes very easy for AI to imitate.
+In terms of mechanics and ergonomics, it makes sense to clone Bruce and is not really an original idea.
 
-Yet there is a bigger and far more interesting question after that. Why does it work? There are two levels to this.
+But there is a bigger and far more interesting question after that. Why does it work? There are two levels to this.
 
-First, why was Bruce Lee so appealing to audiences?
+First, why was the original Bruce Lee so appealing to audiences?
 
 The original Bruce Lee appealed to audiences because he was authentic and unique. Instead of using camera tricks or effects, he would actually perform expert-level techniques live on camera at blistering speed. 
 
-Imagine all your life you’ve seen movie fights as a slow sequence of punches, where you see the punch being thrown, then the reaction in different cuts. Then this guy comes along and beats up six men at once and stays in focus on camera the entire time. This type of on-camera fighting originated with Bruce Lee, continued with the likes of Jackie Chan and Jet Li, and still influences movies like the John Wick series, where the focus is often on extremely tight fighting scenes with fast choreography. The techniques are much more advanced, and shots are much more impressive, but that style of filmmaking has its heritage in movies like Enter the Dragon. 
+Imagine all your life you’ve seen movie fights as a slow sequence of punches: you see the punch thrown, then the reaction in a different cut, then the second punch in the next, and so on. Then this guy comes along and beats up six men at once and stays in focus on camera the entire time doing it. It was an authentic display of controlled righteous violence with immense dedication. He did to martial arts what George Lucas and Steven Spielberg have done to special effects in cinema. 
 
-He was also a massive personality. Instead of accepting his fate as a sidekick or secondary, he would break barriers, destroy stereotypes, and become an iconoclast. He would also boost the popularity of martial arts and contribute significantly to their growth. 
+This type of on-camera fighting originated with Bruce Lee, continued with the likes of Jackie Chan and Jet Li, and still influences movies like the John Wick series, where the focus is often on extremely tight fighting scenes with fast choreography. The techniques are much more advanced, and shots are much more impressive, but that style of filmmaking has its heritage in movies like Enter the Dragon.
 
-Yet, reading his quotes, it appears Bruce Lee never wanted to be the one with answers. His approach did not believe in fixed structures, dogma, or treating things as fixed wisdom that must stay stuck in time. 
+He was also a massive personality outside of cinema and martial arts. Instead of accepting his fate as a sidekick or secondary, he would go on to break barriers, destroy stereotypes, and become an iconoclast. 
 
-And that’s why it pisses me off, because that is what culture and media did to him. They took the three-dimensional man who was extremely dedicated and impressive and turned him into a two-dimensional image of a god who cannot be questioned. 
+Yes, he sometimes spoke in vague philosophical quotes, but one has to ask why we need to elevate him from man to god. Why do we think of him as a mysterious philosopher first, rather than the actual person that he was? 
+
+The answer is actually not that complicated, and in some regards, even that malicious. It’s simply because, to be a symbol or a meme, you need to compress the original three-dimensional entity into a flat, two-dimensional one. You can get Bruce Lee clones to imitate him, but they can never be who he was, and the image of Bruce Lee is not even close to Bruce Lee, the man. And when you throw AI video gen into the mix, it becomes an extremely low-resolution copy of that. Yet, in this case, it worked because it is extremely hard to tell the low-resolution copy from the first copy done over forty years ago.
 
 The image of Bruce Lee and why it appeals to people
 
-If the image of Bruce Lee and Bruce Lee (the person) differ, and both appeal to people, it is fair to question whether they appeal for the same reason. And I think the answer is no, they do not appeal to people for the same reason.
+If the image of Bruce Lee and Bruce Lee (the person) differ, and both appeal to people, it is fair to question whether they do so for the same reason. And I think the answer is no, they do not appeal to people for the same reason.
 
 The two-dimensional image of Bruce Lee is rarely about martial arts or filmmaking. It’s about life or using his quotes and applying them in a context he never meant. This is what the producers did with Brucesploitation, and this is what the AI did with those reels. 
 
-And it’s not a niche, small thing that is limited to just martial arts or YouTube. It is a cultural meme, the Richard Dawkins definition of the word, and that’s why it has such staying power. For example, look at this BMW ad that uses Bruce Lee talking about how his fighting style is to be adaptable rather than follow fixed procedures, and they just spam their car next to it like “yeah, what he said.” 
+And it’s not a niche, small thing that is limited to just martial arts or YouTube. It is a cultural meme, the Richard Dawkins definition of the word, and that’s why it has such staying power. For example, look at this BMW ad that uses Bruce Lee talking about how his fighting style is to be adaptable rather than follow fixed procedures, and they just spam their car next to it like “yeah, what he said.” They’re using his symbol as a signboard for a car dealership. [10]
 
 Another reason I think the image persists and resonates in today’s world is that it provides an escape fantasy from modern office-worker life and, at the same time, a power fantasy that convinces you you’ll be able to kick like Bruce Lee if you're just water. 
 
-But it’s a false image. It ignores the fact that he routinely punched buckets of sharp gravel and thrust his hands into hot sand just to physically calcify and deaden the nerves in his knuckles, or that had a custom 300-pound heavy bag built specifically for him because he would routinely tear standard canvas bags in half with a single kick, or that he hooked his own muscles up to an electrical stimulation machine to force violent muscle contractions, pushing his body past its natural nervous system limits. 
+But it’s a false image. 
+
+It ignores the fact that he routinely punched buckets of sharp gravel and thrust his hands into hot sand just to physically calcify and deaden the nerves in his knuckles, or that had a custom 300-pound heavy bag built specifically for him because he would routinely tear standard canvas bags in half with a single kick, or that he hooked his own muscles up to an electrical stimulation machine to force violent muscle contractions, pushing his body past its natural nervous system limits. 
 
 He had to do more than wax philosophical about being water to do the things he did on screen.
 
 Turning 3D into 2D and then copying until only pixels remain
 
-Even though I spent the entire afternoon watching those videos and my brain did feel rewarded, it was for nothing substantial really. I learned nothing, just interacted with the two-dimensional edges of an infinitely richer three-dimensional object. And it was easy! I just had to keep scrolling, and it would make me feel useful.
+Even though I spent the entire afternoon watching those videos and my brain did feel rewarded, it was for nothing substantial, really. I learned nothing, just interacted with the two-dimensional edges of an infinitely richer three-dimensional object. And it was easy! I just had to keep scrolling, and it would make me feel useful.
 
 By contrast, researching this article was hard. I had initially wanted to write a take-down of Bruce Lee’s philosophy and how it’s just bumper stickers with no substance, and how AI is exploiting that. But I realized that AI was generating content based on the image of Bruce Lee, which was already a low-resolution copy of the original. At that point, they are basically bumper stickers.
 
@@ -204,4 +210,62 @@ We seek these symbols because they are easy to read and easy to sell. It is hard
 
 And it wouldn’t be unfair to say that Bruce Lee also played a part in generating this unique image of himself, because he knew it would sell easily to international markets. He was a smart, nuanced man who understood Hollywood as well, but we rarely talk about him in the same breath as Spielberg or George Lucas because it is easier for us to accept that this is just an insane warrior-monk man who can kick really fast and has vague, wise things to say that we can vibe to without thinking much about what he’s actually saying.
 
-Timestamp: 13th July 15:18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+
+https://web.archive.org/web/20110221043919/http://www.washington.edu/alumni/columns/dec99/j_o.html 
+https://en.wikipedia.org/wiki/Fountain_(Duchamp)
+https://www.jeetkunedoacademy.com.au/feature/jeet-kune-do/ 
+https://www.goodreads.com/quotes/4606031-if-you-want-to-learn-to-swim-jump-into-the 
+https://www.scmp.com/culture/film-tv/article/2155177/jackie-chan-tried-replace-bruce-lee-after-he-died-and-so-did-bruce 
+https://faroutmagazine.co.uk/speed-bruce-lee-forced-directors-to-film-differently/ 
+https://screenrant.com/bruce-lee-robin-green-hornet-fight-true-story/ 
+https://thechinaproject.com/2019/07/12/1973-when-kung-fu-ruled-the-american-box-office/ 
+https://www.cbc.ca/news/entertainment/obsession-record-box-office-400m-9.7261457 
+https://www.youtube.com/watch?v=RXwJACmAchg 
+
+Timestamp: 14th July 21:39
