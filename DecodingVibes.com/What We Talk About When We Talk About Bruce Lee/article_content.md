@@ -1,8 +1,11 @@
----
-    title: 'What We Talk About When We Talk About Bruce Lee'
-    description: 'An exploration of how Bruce Lee evolved from a groundbreaking martial artist into a cultural myth endlessly reproduced by Hollywood, advertising, and AI.'
-    pubLink: 'https://www.decodingvibes.com/blog/what-we-talk-about-when-we-talk-about-bruce-lee',
-    pubDate: '2026-07-17'
+title: 'What We Talk About When We Talk About Bruce Lee'
+
+description: 'An exploration of how Bruce Lee evolved from a groundbreaking martial artist into a cultural myth endlessly reproduced by Hollywood, advertising, and AI.'
+
+pubLink: https://www.decodingvibes.com/blog/what-we-talk-about-when-we-talk-about-bruce-lee
+
+pubDate: '2026-07-17'
+
 ---
 
 I recently spent an entire afternoon watching YouTube reels of Bruce Lee performing martial arts. All of those videos seemed to follow the same format, showing vintage-styled footage of him with a voiceover saying something spiritual, such as “be like water.” It was fascinating in the moment.
