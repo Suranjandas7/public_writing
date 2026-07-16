@@ -1,8 +1,6 @@
----
 title: 'What We Talk About When We Talk About Bruce Lee'
 description: 'An exploration of how Bruce Lee evolved from a groundbreaking martial artist into a cultural myth endlessly reproduced by Hollywood, advertising, and AI.'
 pubLink: 'https://www.decodingvibes.com/blog/what-we-talk-about-when-we-talk-about-bruce-lee',
-tags: ['Bruce Lee', 'culture', 'martial arts', 'commentary', 'philosophy']
 pubDate: '2026-07-17'
 ---
 
