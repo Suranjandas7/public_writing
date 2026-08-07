@@ -1,10 +1,14 @@
-Initial notes:
+title: '"Aura" and the Backlash Against the Slop Machine'
 
-  * LinkedIN's "looks like AI slop button" against Nadella's blog post against slop 
-  * Codeberg's stance on AI and LLM projects
-  * YouTube, other media platforms stance on AI (incl. Hank Green issue)
-  * Slop as a category (re-establishing "aura" in the digital age - more on 1935 paper on mechanical reproduction)
-    * Implications of a new slop category: human premium and reshaping of aura 
+
+description: 'I explore the growing backlash against AI-generated content across major platforms like LinkedIn and Codeberg. Drawing on the concept of "aura," it is clear to see that these platforms are now fighting to protect their unique value from mass reproduction.'
+
+
+pubLink: https://decodingvibes.com/blog/aura-and-the-backlash-against-the-slop-machine
+
+
+pubDate: '2026-08-07'
+
 
 ---
 
@@ -49,7 +53,9 @@ While the title of the video is "Does Hank Green Shave His Butt? | Soupytime Ask
 
   - [How Creators Use AI for Content Creation, YouTube](https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/)
 
-I have been watching Hank Green's content since I was a teenager, and I personally do not care if he uses AI as part of his content creation process. In fact, he openly talks about using AI for coding and doing several other things. That doesn't personally change my opinion of him as a creator. Yet, the backlash against him for this does point to the same issue we're seeing with people disliking the use of AI-generated *things*. YouTube's official policy also mandates the disclosure of AI usage and the degree of use, along with the clause that they are at liberty to force a disclosure if it is not adequately provided, i.e., an automated "seems like AI slop" button.
+I have been watching Hank Green's content since I was a teenager, and I personally do not care if he uses AI as part of his content creation process. In fact, he has openly talked about using AI for coding and doing several other things. That doesn't personally change my opinion of him as a creator (although I don't watch his content regularly anymore since the last couple of years). 
+
+The backlash against him for this does point to the same issue we're seeing with people disliking the use of AI-generated *things*. YouTube's official policy also mandates the disclosure of AI usage and the degree of use, along with the clause that they are at liberty to force a disclosure if it is not adequately provided, i.e., an automated "seems like AI slop" button.
 
 Even when platforms are supporting AI-generated music, they make an attempt to distance themselves from the "slop". 
 
@@ -59,4 +65,18 @@ Even when platforms are supporting AI-generated music, they make an attempt to d
 
 ## "Slop" Labels and Reviewing the Concept of "Aura" in 2026
 
-Timestamp: 6th Aug 2026, 14:33
+In his famous 1935 essay, ["The Work of Art in the Age of Mechanical Reproduction"](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction), German philosopher Walter Benjamin ponders on what happens to our relationship with art when it can be produced and distributed in mass. At the time it was written, new technologies like film and photography were the trending topics of the day, sparking fears that they would destroy the sacred world of art with cheap imitations. While there are a lot of concepts discussed in the essay, one of the central ideas was that truly original works of art have a quality he referred to as its "aura". He then argues that the "aura" of a real work of art is tied to its "ritualistic value" as opposed to its "exhibition value". When it was really hard to create works of art, they were guarded and treated much more sacredly but when it becomes very easy to create/reproduce works of art, the value reverses and the priority becomes virality rather than value.
+
+One might look at the trend of creating Studio Ghibli-inspired images using ChatGPT in recent memory. While the original movies had a ritualistic value to them (a group of animation filmmakers in Japan wanting to push what animated movies mean with amazing, high-quality media, the ChatGPT reproductions did not have any ritualistic value but only a massive exhibition one (where the intention is mainly to show something to other people). This example is a stretched version of the original context sure but it highlights that intentions and resistance are very important when it comes to the value of the art being created. In this context, the main problem with AI slop is that it lacks any intention or resistance that a real human would face and any art trying to copy the original without having a similar level of hyper-specific intention or the natural resistance that one must overcome is likely not to have much "aura". Audiences/consumers might find this lack of "aura" to be a sign of low-quality.
+
+> ...for the first time in world history, mechanical reproduction emancipates the work of art from its parasitical dependence on ritual. To an ever greater degree the work of art reproduced becomes the work of art designed for reproducibility. From a photographic negative, for example, one can make any number of prints; to ask for the "authentic" print makes no sense. But the instant the criterion of authenticity ceases to be applicable to artistic production, the total function of art is reversed. 
+
+  - [The Work of Art in the Age of Mechanical Reproduction, Walter Benjamin](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
+
+It is easy to draw parallels between what the essay talks about and the current media landscape with artificial intelligence, doing what photography did to painting. While the comparisons are not strictly applicable (after all, photography works fundamentally differently than a large language model) but the question of what is "aura" in the digital age is an interesting one and which largely applies to this topic.
+
+A possible argument one can make is that there is no "aura" in media anymore in today's landscape and everything is a copy of a copy ([I recently explored this concept slightly with Bruce Lee's image in modern culture](https://decodingvibes.com/blog/what-we-talk-about-when-we-talk-about-bruce-lee/)), especially with internet culture predominating. For example, it is not possible to differentiate between an "original" YouTube video and a "reproduced one" just by the artifact itself, since both are essentially just binary data and can be perfect clones of each other. In this sense, it is hard to project a sense of "aura" on to the works of arts themselves. Yet, when we look at the attempts to classify AI slop, it can make sense from the point of view of the platforms defending their "aura".
+
+For example, if Codeberg prides itself in being home to some of the most innovative and excellent open source projects, it is the platform's "aura". Similarly, if LinkedIn wants to project itself as the place where industry leaders discuss amazing business ideas, it is their "aura". AI slop directly threatens their aura by filling their platform with low-effort reproduced art. While many see this as a judgement on the quality of AI work itself, I think it reveals a deeper truth, the onslaught of artifacts in masses by a new form of mechanical reproduction machine is literally stealing the "aura" of platforms that were built over years and in some cases decades. 
+
+In this context, even if LLM-generated content continues to get better at a rapid pace, one must wonder if the priority for the platforms will be to protect what makes them worthwhile by double down on categorization or embrace a new (sad to some) relationship with content, code, and art? Furthermore, will such categorization lead to the development of a potential human premium. 
