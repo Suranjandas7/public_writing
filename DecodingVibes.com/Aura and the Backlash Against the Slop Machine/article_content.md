@@ -3,9 +3,8 @@ Initial notes:
   * LinkedIN's "looks like AI slop button" against Nadella's blog post against slop 
   * Codeberg's stance on AI and LLM projects
   * YouTube, other media platforms stance on AI (incl. Hank Green issue)
-  * Slop as a category (point-of-view of consumers, AI, and human creators)
-    * Why people do not like the slop category (also expectations - why they are rare)
-    * Implications of a new slop category: human premium, second-class citizen content, beyond slop and evil
+  * Slop as a category (re-establishing "aura" in the digital age - more on 1935 paper on mechanical reproduction)
+    * Implications of a new slop category: human premium and reshaping of aura 
 
 ---
 
@@ -40,7 +39,7 @@ Naturally, there have been mixed reactions since it was announced. Some praise C
 
 The point I'm trying to demonstrate is that this is very similar to the LinkedIn "seems like AI slop" button except in this case, the slop was not only causing a quality issue for the platform but also hogging its resources (unfairly from the perspective of the platform).
 
-## Hank Green Witch Hunt and YouTube on AI
+## Hank Green Witch Hunt and YouTube on AI, Spotify's "Unregulated Slop"
 
 A major YouTube personality is also facing a lot of ["pushback"](https://www.forbes.com/sites/danidiplacido/2026/08/04/the-anti-ai-backlash-against-hank-green-explained/) over his use of artificial intelligence in his videos in recent days. Hank Green, brother of author John Green and a major driving force behind several popular channels, was accused of using AI-written content in a video. 
 
@@ -52,6 +51,12 @@ While the title of the video is "Does Hank Green Shave His Butt? | Soupytime Ask
 
 I have been watching Hank Green's content since I was a teenager, and I personally do not care if he uses AI as part of his content creation process. In fact, he openly talks about using AI for coding and doing several other things. That doesn't personally change my opinion of him as a creator. Yet, the backlash against him for this does point to the same issue we're seeing with people disliking the use of AI-generated *things*. YouTube's official policy also mandates the disclosure of AI usage and the degree of use, along with the clause that they are at liberty to force a disclosure if it is not adequately provided, i.e., an automated "seems like AI slop" button.
 
-## AI Slop as a Category and its Implications
+Even when platforms are supporting AI-generated music, they make an attempt to distance themselves from the "slop". 
 
-Timestamp: 7th Aug 2026, 13:10
+> Alex Norström, CEO of Spotify, told the Financial Times the streamer was trying to offer a “controlled” alternative, in which musicians can consent to use of their work and make money from it, as opposed to having it pirated. "There's a lot of rogue attempts at this," he added... Spotify's feature will cost extra money, and allow "one song to become 10,000"
+
+  - [Spotify boss defends move to AI music, saying it is better than "slop"](https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop)
+
+## "Slop" Labels and Reviewing the Concept of "Aura" in 2026
+
+Timestamp: 6th Aug 2026, 14:33
